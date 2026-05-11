@@ -1,0 +1,12 @@
+crewai
+crewai-tools
+ollama
+langchain-community
+langchain-ollama 
+chromadb 
+networkx
+click
+rich
+python-dotenv
+pytest
+pytest-timeout
